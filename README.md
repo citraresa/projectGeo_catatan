@@ -14,4 +14,5 @@ HASIL:![WhatsApp Image 2025-11-21 at 21 16 47_3f9bd014](https://github.com/user-
 * Opsional, Gunakan SharedPreferences atau Hive agar data tidak hilang saat aplikasi ditutup.
 <img width="1017" height="321" alt="image" src="https://github.com/user-attachments/assets/4487d70b-40da-4dba-8f11-b78138e171a7" />
 HASIL saat aplikasi dibuka kembali tidak hilang:
-![WhatsApp Image 2025-11-21 at 22 09 09_f1ef13fc](https://github.com/user-attachments/assets/44a842d3-ab38-4e12-9d2f-eac07282bd77)
+![WhatsApp Image 2025-11-21 at 22 09 09_79bbdf77](https://github.com/user-attachments/assets/e63621b0-cabe-446b-900c-57f5a82fe961)
+
