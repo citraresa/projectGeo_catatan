@@ -15,6 +15,6 @@ HASIL:![WhatsApp Image 2025-11-22 at 08 19 09_5d93f45b](https://github.com/user-
 <img width="1017" height="321" alt="image" src="https://github.com/user-attachments/assets/4487d70b-40da-4dba-8f11-b78138e171a7" />
 HASIL saat aplikasi dibuka kembali tidak hilang:
 ini dibuka pada saat pagi hari(keesokannya)
-![WhatsApp Image 2025-11-22 at 08 28 22_0621ccca](https://github.com/user-attachments/assets/7465fd8a-4aee-4d5c-ac91-6e70a9b5ae26)
+![3marker](https://github.com/user-attachments/assets/520ab97c-2426-4bfe-b85b-6d4f7d3e1ac2)
 
 
